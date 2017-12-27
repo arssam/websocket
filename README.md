@@ -1,3 +1,5 @@
+git clone https://github.com/arssam/websocket.git
+
 第一步：
   npm install websocket
 

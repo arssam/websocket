@@ -8,7 +8,7 @@ var server = http.createServer(function(request, response) {
     response.end();
 });
 server.listen(8881, function() {
-    console.log((new Date()) + ' Server is listening on port 8080');
+    console.log((new Date()) + ' Server is listening on port 8881');
 });
 
 wsServer = new WebSocketServer({

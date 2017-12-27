@@ -1,7 +1,7 @@
 git clone https://github.com/arssam/websocket.git
 
 第一步：
-  npm install websocket
+  npm install
 
 第二步：
   安装Python 2.7
